@@ -37,7 +37,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "devRun": "sudo uke -port 3001 -path ~/Github/uke/shells"
+    "pushAll": "git push origin && git push 9street"
   },
   "license": "ISC",
   "preferGlobal": true,
