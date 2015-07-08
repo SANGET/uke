@@ -6,3 +6,4 @@ custom_configures
 lib_coffee
 
 *.log
+shells
