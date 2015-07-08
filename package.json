@@ -1,6 +1,6 @@
 {
   "name": "uke",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Running on the production server, for listening on the specified port and executes the specified configuration shells.",
   "main": "index.js",
   "author": "SANGET",
@@ -36,7 +36,8 @@
     "url": "https://github.com/SANGET/uke/issues"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devRun": "sudo uke -port 3001 -path ~/Github/uke/shells"
   },
   "license": "ISC",
   "preferGlobal": true,

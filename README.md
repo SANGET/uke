@@ -27,13 +27,11 @@ uke -port 6666 -path /your-config-path
 ------------
 
 ##### -port
------------
 
 specified port. Default is `2000`.
 
 
 ##### -path
------------
 
 specified configurations path. Default is current directory.
 
