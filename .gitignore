@@ -1,0 +1,8 @@
+
+node_modules
+.DS_Store
+.idea
+custom_configures
+lib_coffee
+
+*.log
