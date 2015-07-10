@@ -16,11 +16,11 @@ Running on any path
 npm install push-hook -g
 ```
 
-#### Running
-------------
+#### Running as Administrator
+-----------------------------
 
 ```
-uke -port 6666 -path /your-config-path
+sudo uke -port 6666 -path /your-config-path
 ```
 
 #### Options
@@ -34,7 +34,6 @@ specified port. Default is `2000`.
 ##### -path
 
 specified configurations path. Default is current directory.
-
 
 Service will listen the URL *http://yourDomain:port/projectName*
 
