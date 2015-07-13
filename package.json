@@ -1,6 +1,6 @@
 {
   "name": "uke",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "description": "Running on the production server, for listening on the specified port and executes the specified configuration shells.",
   "main": "index.js",
   "author": "SANGET",
