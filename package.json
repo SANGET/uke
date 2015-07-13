@@ -1,6 +1,6 @@
 {
   "name": "uke",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Running on the production server, for listening on the specified port and executes the specified configuration shells.",
   "main": "index.js",
   "author": "SANGET",
@@ -38,7 +38,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "pushAll": "git push origin && git push 9street"
+    "push-all": "git add -A && git commit -m 'normal update' && git push origin && git push 9street && npm publish"
   },
   "license": "ISC",
   "preferGlobal": true,
