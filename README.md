@@ -13,7 +13,7 @@
 Running on any path
 
 ```
-npm install push-hook -g
+npm install uke -g
 ```
 
 #### Running as Administrator
